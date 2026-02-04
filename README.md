@@ -36,4 +36,3 @@ Caldera Execution Platform (MITRE Official)
 - **Red Teams**: Strategic planning meets tactical execution
 - **Security Consultants**: Commander-level engagement management
 - **Researchers**: Military framework applied to offensive security
-```
